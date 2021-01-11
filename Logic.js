@@ -1,3 +1,4 @@
+// question 1 answer
 let arr = [1,2,3];
 
 
@@ -21,6 +22,8 @@ answer([1,2,3,4,5], 5);
 
 
 ////////////////////////////
+// question 2 answer
+
 function decToHex(val)
 {
 	switch(val){
